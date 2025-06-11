@@ -129,4 +129,4 @@ Esta aplicación está diseñada para comunicarse con una API REST desarrollada 
 
 ## Licencia
 
-MIT 
+Eyner Schoonewolff
