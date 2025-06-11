@@ -130,3 +130,6 @@ Esta aplicación está diseñada para comunicarse con una API REST desarrollada 
 ## Licencia
 
 Eyner Schoonewolff
+
+## video funcionamiento
+https://youtu.be/PnpAHUkAqRY
